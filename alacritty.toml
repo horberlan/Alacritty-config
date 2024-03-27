@@ -31,7 +31,7 @@ osc52 = "CopyPaste"
 [font]
 
 size = 7
-
+offset.y = 1
 #dracula theme
 [colors.primary]
 
