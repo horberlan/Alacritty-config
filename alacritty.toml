@@ -4,7 +4,7 @@ args = ["-l"]
 
 [window]
 
-dimensions = { columns = 0, lines = 0 }
+dimensions = { columns = 160, lines = 35 }
 
 padding = { x = 1, y = 1 }
 
@@ -30,7 +30,7 @@ osc52 = "CopyPaste"
 
 [font]
 
-size = 8
+size = 7
 
 #dracula theme
 [colors.primary]
